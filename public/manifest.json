@@ -1,0 +1,10 @@
+{
+    "theme_color": "#000",
+    "background_color": "#000",
+    "display": "standalone",
+    "scope": "/",
+    "start_url": "/",
+    "name": "Music TeleWeb",
+    "description": "Music streaming and downloading platform.",
+    "short_name": "tele-mucic"
+}
