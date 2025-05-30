@@ -2,6 +2,8 @@ import PlayButton from "@/components/PlayButton";
 import SongList from "@/components/SongsList";
 import { getplaylistData, homePageData } from "@/services/dataAPI";
 
+export const runtime = "nodejs";
+
 const page = async ({ params }) => {
   // const [playlistData, setPlaylistData] = useState(null);
   // const [loading, setLoading] = useState(true);
